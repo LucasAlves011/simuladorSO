@@ -1,0 +1,3 @@
+public enum Estados {
+    PRONTO,EXECUTANDO, BLOQUEADO,FINALIZADO;
+}
